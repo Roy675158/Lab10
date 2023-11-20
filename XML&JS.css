@@ -1,0 +1,28 @@
+body {
+	color: black;
+	background-image: url("BG.jpg");
+	width: 80%;
+	text-align: center;
+	font-family: verdana;
+}
+h1 { color: rebeccapurple;
+ text-align:center;
+text-decoration: underline;
+text-emphasis-style: !important;
+margin: auto;
+}
+h2 { color: purple;
+text-decoration: underline;
+text-emphasis-style: !important
+}
+h3{ color: deeppink;
+text-decoration: underline;
+text-emphasis-style: !important
+}
+p {
+	text-align: center;
+	width: 80%;
+	text-emphasis-style: !important;
+	font-family: verdana;
+	margin: auto;
+}
